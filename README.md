@@ -98,5 +98,44 @@ Digunakan untuk menyimpan data ringan (key-value), seperti:
 
 SharedPreferences memastikan pengalaman pengguna tetap konsisten.
 
+**Login Page**
+![WhatsApp Image 2025-11-23 at 23 09 10_31fb53c9](https://github.com/user-attachments/assets/580416c9-5153-40b6-9f81-0752512cfe1a)
 
-![WhatsApp Image 2025-10-18 at 17 00 47_4c5ef943](https://github.com/user-attachments/assets/eafadddf-b62e-4aff-a549-6a5c812cf1da)
+
+**Home Page**
+![WhatsApp Image 2025-11-23 at 23 10 55_eb76c6d9](https://github.com/user-attachments/assets/ee81c3a6-2848-4aaf-a801-dcb944f99a18)
+
+
+**Add Item Page**
+![WhatsApp Image 2025-11-23 at 23 10 24_52e7f158](https://github.com/user-attachments/assets/943e7864-0521-4760-ad63-3cfdf696c8b6)
+
+
+**Setelah add item**
+![WhatsApp Image 2025-11-23 at 23 10 24_52e7f158](https://github.com/user-attachments/assets/c127ddc3-8e67-4ddd-9505-d78c81e40ed9)
+
+
+**Light Dark Mode**
+![WhatsApp Image 2025-11-23 at 23 12 09_48a9eb5c](https://github.com/user-attachments/assets/7faa63f3-d214-4d05-a53d-b353529d518d)
+
+
+**💾 Penjelasan Bagaimana Aplikasi Menyimpan Data
+SharedPreferences**
+
+- Menyimpan data sederhana seperti status login dan tema.
+
+- Data disimpan sebagai key-value.
+
+- Tidak hilang meskipun aplikasi ditutup.
+
+Contoh:
+_
+isLoggedIn = true
+isDarkMode = false_
+
+**SQLite**
+
+Menyimpan data item secara permanen dalam bentuk database.
+
+Digunakan untuk data tabel seperti nama barang dan jumlah.
+
+Mendukung operasi CRUD (Create, Read, Update, Delete).
