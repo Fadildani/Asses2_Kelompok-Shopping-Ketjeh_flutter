@@ -97,3 +97,6 @@ Digunakan untuk menyimpan data ringan (key-value), seperti:
 - Tema aplikasi
 
 SharedPreferences memastikan pengalaman pengguna tetap konsisten.
+
+
+![WhatsApp Image 2025-10-18 at 17 00 47_4c5ef943](https://github.com/user-attachments/assets/eafadddf-b62e-4aff-a549-6a5c812cf1da)
