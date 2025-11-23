@@ -6,7 +6,7 @@ A new Flutter project.
 | --------------------- | --------- | ------------------------------------- |
 | Fadillah Dani Prawoto | (2310130004) | Login, SharedPreferences, Dokumentasi |
 | Fathi Fathan Fathurrahman | (2310130005) | Light/Dark Mode, SQLite (CRUD)  |
-| Muhamad Hafidz Hazhar | (23101300) | UI Homepage, Add Item Page            |
+| Muhamad Hafidz Hazhar | (2310130014) | UI Homepage, Add Item Page            |
 
 
 📌 Pembagian Tugas
@@ -99,22 +99,27 @@ Digunakan untuk menyimpan data ringan (key-value), seperti:
 SharedPreferences memastikan pengalaman pengguna tetap konsisten.
 
 **Login Page**
+
 ![WhatsApp Image 2025-11-23 at 23 09 10_31fb53c9](https://github.com/user-attachments/assets/580416c9-5153-40b6-9f81-0752512cfe1a)
 
 
 **Home Page**
+
 ![WhatsApp Image 2025-11-23 at 23 10 55_eb76c6d9](https://github.com/user-attachments/assets/ee81c3a6-2848-4aaf-a801-dcb944f99a18)
 
 
 **Add Item Page**
+
 ![WhatsApp Image 2025-11-23 at 23 10 24_52e7f158](https://github.com/user-attachments/assets/943e7864-0521-4760-ad63-3cfdf696c8b6)
 
 
 **Setelah add item**
+
 ![WhatsApp Image 2025-11-23 at 23 10 24_52e7f158](https://github.com/user-attachments/assets/c127ddc3-8e67-4ddd-9505-d78c81e40ed9)
 
 
 **Light Dark Mode**
+
 ![WhatsApp Image 2025-11-23 at 23 12 09_48a9eb5c](https://github.com/user-attachments/assets/7faa63f3-d214-4d05-a53d-b353529d518d)
 
 
@@ -139,3 +144,4 @@ Menyimpan data item secara permanen dalam bentuk database.
 Digunakan untuk data tabel seperti nama barang dan jumlah.
 
 Mendukung operasi CRUD (Create, Read, Update, Delete).
+
